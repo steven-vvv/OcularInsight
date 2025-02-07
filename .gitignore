@@ -1,0 +1,23 @@
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# RawData
+/data/
+
+# Python Cache
+__pycache__/
+
+# # Development
+# dev/
+
+# windsurf rules
+.windsurfrules
